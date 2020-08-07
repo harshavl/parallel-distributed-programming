@@ -1,1 +1,1 @@
-# parallelProgramming
+# parallel distributed programming
